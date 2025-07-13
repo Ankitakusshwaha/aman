@@ -3,3 +3,4 @@ resource "azurerm_resource_group" "hello2" {
     location = "west us"
   
 }
+1
